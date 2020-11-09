@@ -1,4 +1,4 @@
-# camer
+# camera
 カメラの向きのぴプログラム
 using System.Collections;
 using System.Collections.Generic;
