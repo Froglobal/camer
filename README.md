@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//Cameraにインポートして使います
+//操作するオブジェクトにインポートして使います
 public class camera : MonoBehaviour
 {
     //回転速度
